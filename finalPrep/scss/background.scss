@@ -1,0 +1,9 @@
+.background{
+    background-image: url(../images/background.jpg);
+    background-image: linear-gradient(rgba(8, 8, 8, 0.5), rgba(8, 8, 8, 0.5)), url(../images/background.jpg);
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
